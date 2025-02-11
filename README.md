@@ -22,7 +22,3 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
 - Games e cultura geek (especialmente **Persona 3** 💙)  
 
 📫 **Vamos conversar?** Se quiser trocar uma ideia sobre programação, tecnologia ou games, estou sempre aberto a novos desafios e colaborações! 🚀  
-
----
-
-Caso queira algo mais personalizado, me avise! 😃
