@@ -1,7 +1,3 @@
-Aqui está um README que combina suas experiências acadêmicas e interesses:
-
----
-
 # 🕵️‍♂️ zSh3rl0cK  
 
 ### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 Fã de Persona 3  
