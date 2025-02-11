@@ -1,4 +1,6 @@
-![zSh3rl0cK](https://64.media.tumblr.com/3197af6519c9bd200446a918f7062aa9/b4f45d069efce775-32/s540x810/ac5481fb1a3cc94047c02f1ba92febc640fe855f.gifv)
+<p align="center">
+  <img src="https://64.media.tumblr.com/3197af6519c9bd200446a918f7062aa9/b4f45d069efce775-32/s540x810/ac5481fb1a3cc94047c02f1ba92febc640fe855f.gifv">
+</p>
 
 # 🕵️‍♂️ zSh3rl0cK  
 
