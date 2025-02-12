@@ -59,7 +59,7 @@ Se quiser trocar uma ideia sobre programação, tecnologia, ou até mesmo sobre 
   <a href="mailto:pedrohrdias12@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="mailto:pedro.henrique.ribeiro.dias@outlook.com">
+  <a href="mailto:pedro.henrique05@ges.inatel.br">
     <img src="https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
   </a>
 </p>
