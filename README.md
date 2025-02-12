@@ -78,6 +78,11 @@ Se quiser trocar uma ideia sobre programação, tecnologia, ou até mesmo sobre 
 
 <h2 align="center">Obrigado por ler até aqui! 👋</h2>
 
+<h2 align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snwexylx5a4vhaphvpzkol73py&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31snwexylx5a4vhaphvpzkol73py&redirect=true)
+</h2>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/3LGOhR8zUKMAAAAC/makoto-yuki-minato-arisato.gif">
 </p>
