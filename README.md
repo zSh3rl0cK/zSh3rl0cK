@@ -39,13 +39,14 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
 ## 📫 Contato  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-ribeiro-dias-666417266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:pedrohrdias12@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/3LGOhR8zUKMAAAAC/makoto-yuki-minato-arisato.gif">
