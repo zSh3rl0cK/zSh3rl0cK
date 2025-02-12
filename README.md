@@ -47,9 +47,7 @@ Atualmente, também atuo como **monitor de Matemática Aplicada à Engenharia** 
 
 ### 📈 Contribuições do Mês  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zSh3rl0cK&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zSh3rl0cK&theme=github-compact)
 
 ## 🔗 Repositórios dos meus principais desenvolvimentos  
 
