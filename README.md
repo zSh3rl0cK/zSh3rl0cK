@@ -1,3 +1,6 @@
+<h2 align="center">Welcome to my profile! 👋</h2>
+
+
 <p align="center">
   <img src="https://media1.tenor.com/m/bKA88nR9SjoAAAAC/persona-3-makoto-yuki.gif">
 </p>
