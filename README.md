@@ -78,6 +78,8 @@ Se quiser trocar uma ideia sobre programação, tecnologia, ou até mesmo sobre 
   </a>
 </p>
 
+<h2 align="center">Obrigado por ler até aqui! 👋</h2>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/3LGOhR8zUKMAAAAC/makoto-yuki-minato-arisato.gif">
 </p>
