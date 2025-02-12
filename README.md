@@ -51,9 +51,9 @@ Atualmente, também atuo como **monitor de Matemática Aplicada à Engenharia** 
 
 ## 🔗 Repositórios dos meus principais desenvolvimentos  
 
-- 🚀 [**Projeto 1**](https://github.com/zSh3rl0cK/POO-C06) - Meus desenvolvimentos aprendendo Java durante este semestre.  
-- 🔥 [**Projeto 2**](https://github.com/zSh3rl0cK/Projeto-Pokedex) - Projeto Pokédex desenvolvido para algoritmos 3 em C++.  
-- 🧠 [**Projeto 3**](https://github.com/zSh3rl0cK/S05-Projeto) - Projeto de Site/aplicativo do Inatel para Interface Homem-máquina.  
+- 🚀 [**CO6-Java**](https://github.com/zSh3rl0cK/POO-C06) - Meus desenvolvimentos aprendendo Java durante este semestre.  
+- 🔥 [**Pokédex**](https://github.com/zSh3rl0cK/Projeto-Pokedex) - Projeto Pokédex desenvolvido para algoritmos 3 em C++.  
+- 🧠 [**SO5-App**](https://github.com/zSh3rl0cK/S05-Projeto) - Projeto de Site/aplicativo do Inatel para Interface Homem-máquina.  
 
 ## 🎮 Interesses  
 - Desenvolvimento de software e boas práticas de programação  
