@@ -1,6 +1,5 @@
 <h2 align="center">Welcome to my profile! 👋</h2>
 
-
 <p align="center">
   <img src="https://media1.tenor.com/m/bKA88nR9SjoAAAAC/persona-3-makoto-yuki.gif">
 </p>
@@ -45,6 +44,18 @@ Atualmente, também atuo como **monitor de Matemática Aplicada à Engenharia** 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSh3rl0cK&layout=compact&theme=tokyonight" />
 </p>
+
+### 📈 Contribuições do Mês  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zSh3rl0cK&theme=tokyonight" />
+</p>
+
+## 🔗 Repositórios dos meus principais desenvolvimentos  
+
+- 🚀 [**Projeto 1**](https://github.com/zSh3rl0cK/POO-C06) - Meus desenvolvimentos aprendendo Java durante este semestre.  
+- 🔥 [**Projeto 2**](https://github.com/zSh3rl0cK/Projeto-Pokedex) - Projeto Pokédex desenvolvido para algoritmos 3 em C++.  
+- 🧠 [**Projeto 3**](https://github.com/zSh3rl0cK/S05-Projeto) - Projeto de Site/aplicativo do Inatel para Interface Homem-máquina.  
 
 ## 🎮 Interesses  
 - Desenvolvimento de software e boas práticas de programação  
