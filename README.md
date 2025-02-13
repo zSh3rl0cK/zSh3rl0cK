@@ -11,7 +11,9 @@
 ## Sobre Mim  
 Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
 
-Atualmente, também atuo como **monitor de Matemática Aplicada à Engenharia** e ofereço **aulas particulares de Cálculo I e Física I**, ajudando outros estudantes a superarem desafios nessas disciplinas fundamentais. 🚀  
+Atualmente, também atuo como:
+**Monitor de Matemática Aplicada à Engenharia** e ofereço **aulas particulares de Cálculo I e Física I**, ajudando outros estudantes a superarem desafios nessas disciplinas fundamentais. 🚀 
+**Educador de algoritmos C++ no projeto Casa Viva**, uma iniciativa para ensinar diversos tipos de conteúdos para jovens da rede pública. Sendo meu foco um conteúdo similar ao de algoritmos I.
 
 ## 🔥 Tecnologias e Experiência  
 
