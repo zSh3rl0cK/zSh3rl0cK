@@ -11,7 +11,7 @@
 ## Sobre Mim  
 Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
 
-Atualmente, também atuo como:
+## Atualmente, também atuo como:
 
 **Monitor de Matemática Aplicada à Engenharia** e ofereço **aulas particulares de Cálculo I e Física I**, ajudando outros estudantes a superarem desafios nessas disciplinas fundamentais. 🚀 
 
