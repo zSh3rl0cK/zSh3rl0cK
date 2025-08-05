@@ -6,7 +6,7 @@
 
 # 🕵️‍♂️ zSh3rl0cK  
 
-### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 Fã de Persona 3  
+### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 0 - The Fool  
 
 ## Sobre Mim  
 Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
