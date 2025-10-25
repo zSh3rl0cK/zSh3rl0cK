@@ -6,16 +6,10 @@
 
 # 🕵️‍♂️ zSh3rl0cK  
 
-### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 0 - The Fool  
+### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 Maior Fã de Java 
 
 ## Sobre Mim  
 Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
-
-## Atualmente, também atuo como:
-
-**Monitor de Matemática Aplicada à Engenharia** e ofereço **aulas particulares de Cálculo I e Física I**, ajudando outros estudantes a superarem desafios nessas disciplinas fundamentais. 🚀 
-
-**Educador de algoritmos C++ no projeto Casa Viva**, uma iniciativa para ensinar diversos tipos de conteúdos para jovens da rede pública. Sendo meu foco um conteúdo similar ao de algoritmos I.
 
 ## 🔥 Tecnologias e Experiência  
 
@@ -61,8 +55,9 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
 
 ## 🎮 Interesses  
 - Desenvolvimento de software e boas práticas de programação  
-- Inteligência artificial e machine learning  
-- Games e cultura geek (especialmente **Persona 3** 💙)  
+- Inteligência artificial e machine learning
+- Ciência e Análise de dados  
+- Game Development 
 
 ## 📫 Contato  
 
