@@ -47,6 +47,8 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zSh3rl0cK&theme=github-compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&theme=github_dark&count_private=true)
+
 ## 🔗 Repositórios dos meus principais desenvolvimentos  
 
 - 🚀 [**CO6-Java**](https://github.com/zSh3rl0cK/POO-C06) - Meus desenvolvimentos aprendendo Java durante este semestre.  
