@@ -9,7 +9,7 @@
 ### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 Maior Fã de Java 
 
 ## Sobre Mim  
-Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
+Olá! Me chamo Pedro Dias, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
 
 ## 🔥 Tecnologias e Experiência  
 
@@ -17,6 +17,7 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
@@ -35,7 +36,9 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
 ## 🚀 Objetivos  
 - Aprimorar meus conhecimentos em desenvolvimento de software  
 - Explorar novas linguagens e frameworks  
-- Criar projetos desafiadores que me ajudem a evoluir  
+- Criar projetos desafiadores que me ajudem a evoluir
+- Mergulhar no mundo da Orientação a Objeto
+- Aprimorar e explorar novos conhecimentos na área de análise de dados.  
 
 ## 📊 Estatísticas  
 
@@ -49,21 +52,15 @@ Olá! Sou o zSh3rl0cK, estudante do Instituto Nacional de Telecomunicações (In
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&theme=github_dark&count_private=true)
 
-## 🔗 Repositórios dos meus principais desenvolvimentos  
-
-- 🚀 [**CO6-Java**](https://github.com/zSh3rl0cK/POO-C06) - Meus desenvolvimentos aprendendo Java durante este semestre.  
-- 🔥 [**Pokédex**](https://github.com/zSh3rl0cK/Projeto-Pokedex) - Projeto Pokédex desenvolvido para algoritmos 3 em C++.  
-- 🧠 [**SO5-App**](https://github.com/zSh3rl0cK/S05-Projeto) - Projeto de Site/aplicativo do Inatel para Interface Homem-máquina.  
-
 ## 🎮 Interesses  
-- Desenvolvimento de software e boas práticas de programação  
+- Desenvolvimento de software e boas práticas de programação 
 - Inteligência artificial e machine learning
 - Ciência e Análise de dados  
 - Game Development 
 
 ## 📫 Contato  
 
-Se quiser trocar uma ideia sobre programação, tecnologia, ou até mesmo sobre Persona 3, entre em contato por um dos links abaixo! Sempre estou aberto a novas conexões, colaborações e discussões sobre desenvolvimento de software. Vamos conversar! 🚀  
+Se quiser trocar uma ideia sobre programação, tecnologia, ou qualquer outra coisa, entre em contato por um dos links abaixo! Sempre estou aberto a novas conexões, colaborações e discussões sobre desenvolvimento de software. Vamos conversar! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-ribeiro-dias-666417266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
