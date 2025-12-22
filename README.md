@@ -4,63 +4,77 @@
   <img src="https://media1.tenor.com/m/bKA88nR9SjoAAAAC/persona-3-makoto-yuki.gif">
 </p>
 
-# 🕵️‍♂️ zSh3rl0cK  
-
-### 🎓 Estudante do Inatel | 💻 Apaixonado por Tecnologia | 🎮 Maior Fã de Java 
-
-## Sobre Mim  
-Olá! Me chamo Pedro Dias, estudante do Instituto Nacional de Telecomunicações (Inatel), sempre buscando aprender mais sobre tecnologia e desenvolvimento de software. Meu foco principal está no aprendizado contínuo e na aplicação de conceitos adquiridos ao longo da minha jornada acadêmica.
-
-## 🔥 Tecnologias e Experiência  
+<h1 align="center">🕵️‍♂️ zSh3rl0cK</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+  Software Engineering • Java enjoyer • Gamer • Data Analysis 
 </p>
 
-## 🛠️ Ambientes de Trabalho  
+---
+
+## 🧠 sobre mim
+
+Olá! Sou o **Pedro Dias**, estudante de **Engenharia de Software no Inatel** e dev backend que curte bastante **Java**.  
+Gosto de entender como as coisas funcionam por baixo dos panos — principalmente quando envolve **POO** (o melhor paradigma 😅), backend e **banco de dados**.
+
+— tô sempre aprendendo, quebrando coisas e refatorando ideias (e códigos).
+
+---
+
+## 💻 tech stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
 </p>
 
-## 🚀 Objetivos  
-- Aprimorar meus conhecimentos em desenvolvimento de software  
-- Explorar novas linguagens e frameworks  
-- Criar projetos desafiadores que me ajudem a evoluir
-- Mergulhar no mundo da Orientação a Objeto
-- Aprimorar e explorar novos conhecimentos na área de análise de dados.  
+---
 
-## 📊 Estatísticas  
+## 🛠️ ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+</p>
+
+---
+
+## 🎯 interesses
+
+- backend e arquitetura  
+- orientação a objetos  
+- bancos de dados & análise de dados  
+- games (jogar e tentar criar)
+
+---
+
+## 📊 stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSh3rl0cK&layout=compact&theme=tokyonight" />
 </p>
 
-### 📈 Contribuições do Mês  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&theme=github_dark&count_private=true" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zSh3rl0cK&theme=github-compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zSh3rl0cK&theme=github-compact" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&theme=github_dark&count_private=true)
-
-## 🎮 Interesses  
-- Desenvolvimento de software e boas práticas de programação 
-- Inteligência artificial e machine learning
-- Ciência e Análise de dados  
-- Game Development 
+---
 
 ## 📫 Contato  
-
-Se quiser trocar uma ideia sobre programação, tecnologia, ou qualquer outra coisa, entre em contato por um dos links abaixo! Sempre estou aberto a novas conexões, colaborações e discussões sobre desenvolvimento de software. Vamos conversar! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-ribeiro-dias-666417266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -73,8 +87,6 @@ Se quiser trocar uma ideia sobre programação, tecnologia, ou qualquer outra co
     <img src="https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
   </a>
 </p>
-
-<h2 align="center">Obrigado por ler até aqui! 👋</h2>
 
 <h2 align="center">
   
