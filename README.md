@@ -49,27 +49,18 @@ Gosto de entender como as coisas funcionam por baixo dos panos — principalment
 
 ---
 
-## 🎯 interesses
-
-- backend e arquitetura  
-- orientação a objetos  
-- bancos de dados & análise de dados  
-- games (jogar e tentar criar)
-
----
-
 ## 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSh3rl0cK&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSh3rl0cK&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zSh3rl0cK&theme=github-compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zSh3rl0cK&theme=tokyonight" />
 </p>
 
 ---
