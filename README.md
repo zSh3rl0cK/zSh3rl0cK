@@ -11,7 +11,7 @@ $ ls interests/
 oop/  databases/  games/
 ```
 
-### `$ cat about.md`
+<h3><img src="assets/headings/about.svg" alt="$ cat about.md"></h3>
 
 <img align="right" width="320" src="https://media1.tenor.com/m/bKA88nR9SjoAAAAC/persona-3-makoto-yuki.gif" alt="Makoto Yuki, Persona 3">
 
@@ -25,7 +25,7 @@ Always learning, breaking things and refactoring ideas (and code).
 
 <br clear="both">
 
-### `$ ls stack/`
+<h3><img src="assets/headings/stack.svg" alt="$ ls stack/"></h3>
 
 <p>
   <code>languages/</code>&nbsp;&nbsp;
@@ -55,7 +55,7 @@ Always learning, breaking things and refactoring ideas (and code).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" align="middle" alt="VS Code" title="VS Code">
 </p>
 
-### `$ ls projects/`
+<h3><img src="assets/headings/projects.svg" alt="$ ls projects/"></h3>
 
 | project | about | stack |
 | :-- | :-- | :-- |
@@ -64,16 +64,13 @@ Always learning, breaking things and refactoring ideas (and code).
 | [Overture](https://github.com/Felipe-Tagawa/Overture) | Sequential vs. multithreaded training of machine learning models on an asteroid dataset, used as a performance benchmark. | Python · scikit-learn · XGBoost |
 | [distribuicao-de-cartas](https://github.com/zSh3rl0cK/distribuicao-de-cartas) | REST API that draws a random Pokémon team from PokéAPI for each player and logs trade notifications. | Python · SQLAlchemy · PokéAPI |
 
-### `$ git log --stat`
+<h3><img src="assets/headings/tartarus.svg" alt="$ java Tartarus.java"></h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&hide_rank=true&custom_title=GitHub%20stats&bg_color=0b1626&title_color=58c7ff&text_color=c8d6e5&icon_color=1f8fff&border_color=1b3a5c#gh-dark-mode-only" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSh3rl0cK&layout=compact&langs_count=8&hide=jupyter%20notebook&bg_color=0b1626&title_color=58c7ff&text_color=c8d6e5&border_color=1b3a5c#gh-dark-mode-only" alt="Most used languages">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zSh3rl0cK&show_icons=true&hide_rank=true&custom_title=GitHub%20stats&bg_color=ffffff&title_color=0a5fd6&text_color=1f2937&icon_color=0a5fd6&border_color=c9d8ea#gh-light-mode-only" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSh3rl0cK&layout=compact&langs_count=8&hide=jupyter%20notebook&bg_color=ffffff&title_color=0a5fd6&text_color=1f2937&border_color=c9d8ea#gh-light-mode-only" alt="Most used languages">
+  <img src="assets/tartarus.svg" width="100%" alt="Tartarus: GitHub contributions over the last 52 weeks drawn as a tower, one floor per week">
 </p>
 
-### `$ playerctl metadata`
+<h3><img src="assets/headings/spotify.svg" alt="$ playerctl metadata"></h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31snwexylx5a4vhaphvpzkol73py&redirect=true">
@@ -81,7 +78,7 @@ Always learning, breaking things and refactoring ideas (and code).
   </a>
 </p>
 
-### `$ cat contact.txt`
+<h3><img src="assets/headings/contact.svg" alt="$ cat contact.txt"></h3>
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-henrique-ribeiro-dias-666417266">
