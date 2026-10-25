@@ -1,0 +1,39 @@
+# Rebuilds assets/tartarus.svg every night, right after the Dark Hour in Brazil.
+name: tartarus
+
+on:
+  schedule:
+    - cron: "17 3 * * *"  # 00:17 in Brasília
+  workflow_dispatch:
+  push:
+    paths:
+      - tools/Tartarus.java
+      - tools/fonts/**
+      - .github/workflows/tartarus.yml
+
+permissions:
+  contents: write
+
+jobs:
+  climb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Render the tower
+        run: java tools/Tartarus.java
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/tartarus.svg
+          git diff --cached --quiet || { git commit -m "chore: climb tartarus"; git push; }
